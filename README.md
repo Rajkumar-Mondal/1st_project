@@ -1,1 +1,1 @@
-# 1st_project
+# Online Hospital Management System
